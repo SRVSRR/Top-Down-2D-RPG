@@ -38,7 +38,7 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 1. **Install Godot Engine**: Make sure you have Godot (v4.x recommended) installed. Download it from [Godot Engine](https://godotengine.org).
 2. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-repo/2d-rpg.git
+   git clone https://github.com/SRVSRR/Top-Down-2D-RPG.git
    ```
 3. **Open the Project**:
    - Launch Godot.
