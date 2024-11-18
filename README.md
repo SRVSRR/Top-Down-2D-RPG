@@ -60,5 +60,7 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 - Expand the open-world map with more scenes.
 - Introduce multiple weapons and attack styles.
 
+## **Acknowledgements** 
+Here are the list of sources and tutorials I used to make this game. 
 
 Feel free to explore, contribute, or adapt the game for your creative ideas. Enjoy playing! 😊 
