@@ -51,8 +51,10 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 | **Action**       | **Key/Input**          |
 |-------------------|------------------------|
 | Move             | Arrow Keys / WASD      |
-| Attack           | E |
-
+| Attack           | E                      |
+| Open Inventory   | I                      |
+| Pick Item        | P                      |
+| Hotbar Select    | 1 - 8                  |
 
 
 ## **Future Improvements**
