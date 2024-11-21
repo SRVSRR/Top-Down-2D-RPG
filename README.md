@@ -1,7 +1,7 @@
 
 # 2D RPG Game (Godot Engine)
 
-[![Watch the video](https://raw.githubusercontent.com/SRVSRR/Top-Down-2D-RPG/main/Map_Image)](https://raw.githubusercontent.com/SRVSRR/Top-Down-2D-RPG/main/Inventory_Pickup_Showcase)
+[![Watch the video](https://raw.githubusercontent.com/SRVSRR/Top-Down-2D-RPG/main/Inventory_Pickup_Showcase.mov)]
 
 ## **Game Overview**
 This is a top-down, open-world RPG developed in the **Godot Engine**, using **GDScript**, where players explore different scenes, engage in combat, and manage health during battles. The game includes an **attack system** with health bars and **health regeneration mechanics**.
@@ -16,7 +16,11 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
   - **Attack Mechanic**: Players can attack enemies with visual feedback.
   - **Health Bars**: Both players and enemies have health bars.
   - **Health Regeneration**: After 3 seconds without taking damage, health regenerates gradually.
-
+- **Inventory System**:
+  - **Pickup and drop Mechanic**: Players can pickup and drop items scattered across the map to and from the inventory.
+  - **Item Usage**: Items can be consumed to give temporary buffs.
+  - **Hotbar Assignment**: Items can be assigned to the hotbar which can be used the 1 - 8 hotkeys.
+    
 ## **Game Structure**
 
 ### **Directories and Files**
@@ -58,13 +62,20 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 | Pick Item        | P                      |
 | Hotbar Select    | 1 - 8                  |
 
-
-## **Future Improvements**
+## **Recent Improvements**
+### **21/11/24**
+- Inventory system with pick, use and drop functionality.
+- Hotbar assignment system with hotkeys.
+- Pseudo random item spawns.
+- Temporary status effects given to items.
+  
+## **Future Improvements Roadmap**
 - Add NPC interactions and quests.
 - Expand the open-world map with more scenes.
 - Introduce multiple weapons and attack styles.
 
 ## **Acknowledgements** 
-Here are the list of sources and tutorials I used to make this game. 
+Here are the list of sources and tutorials I used to make this game.
+
 
 Feel free to explore, contribute, or adapt the game for your creative ideas. Enjoy playing! 😊 
