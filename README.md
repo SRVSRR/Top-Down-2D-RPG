@@ -1,6 +1,5 @@
 
 # 2D RPG Game (Godot Engine)
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 [![Watch the video](https://github.com/SRVSRR/Top-Down-2D-RPG/blob/main/Map_Image)](https://www.youtube.com/watch?v=DGYKxuNlCDA)
 
 ## **Game Overview**
