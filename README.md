@@ -1,7 +1,7 @@
 
 # 2D RPG Game (Godot Engine)
-
-[![Alternate Text](https://github.com/SRVSRR/Top-Down-2D-RPG/blob/main/Map_Image)](https://youtu.be/DGYKxuNlCDA?si=tR7f_AUXUm-jBrxs "Map and Gameplay")
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+[![Watch the video](https://github.com/SRVSRR/Top-Down-2D-RPG/blob/main/Map_Image)](https://www.youtube.com/watch?v=DGYKxuNlCDA)
 
 ## **Game Overview**
 This is a top-down, open-world RPG developed in the **Godot Engine**, using **GDScript**, where players explore different scenes, engage in combat, and manage health during battles. The game includes an **attack system** with health bars and **health regeneration mechanics**.
