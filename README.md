@@ -76,6 +76,9 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 
 ## **Acknowledgements** 
 Here are the list of sources and tutorials I used to make this game.
-
+- [Game Endeavor - Mystic Woods Asset Pack](https://game-endeavor.itch.io/mystic-woods)
+- [Henry Software - Pixel Food Asset Pack](https://henrysoftware.itch.io/pixel-food)
+- [How to Make an RPG in Godot 4 by DevWorm](https://youtube.com/playlist?list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd&si=-qf3YOUL7aTw7Ok5)
+- [Godot 4 Dynamic Slot-Based Inventory System Series by Oops I Dev'd](https://youtube.com/playlist?list=PL8VGDn5bxwDa8sAB-bz_l6aJbT_SnHrID&si=M8EUSdy8JGm8AIk6)
 
 Feel free to explore, contribute, or adapt the game for your creative ideas. Enjoy playing! 😊 
