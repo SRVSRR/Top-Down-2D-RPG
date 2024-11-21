@@ -40,6 +40,11 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 
 
 ## **Setup and Installation**
+### **Method 1**
+1. Download the files titled ```rpg-learning``` and its companion files from the google drive <a href="https://drive.google.com/drive/folders/1K1-LD7-_vcQuw-fZU0Hv5YO-xlZr1Ui3?usp=share_link" title="this">here</a>
+2. Run the .exe file and enjoy
+
+### **Method 2**
 
 1. **Install Godot Engine**: Make sure you have Godot (v4.x recommended) installed. Download it from [Godot Engine](https://godotengine.org).
 2. **Clone the Repository**: 
