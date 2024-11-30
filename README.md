@@ -5,7 +5,6 @@
 ## **Game Overview**
 This is a top-down, open-world RPG developed in the **Godot Engine**, using **GDScript**, where players explore different scenes, engage in combat, and manage health during battles. The game includes an **attack system** with health bars and **health regeneration mechanics**.
 
-
 ## **Features**
 
 ### 🎮 **Core Gameplay**
@@ -19,24 +18,6 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
   - **Pickup and drop Mechanic**: Players can pickup and drop items scattered across the map to and from the inventory.
   - **Item Usage**: Items can be consumed to give temporary buffs.
   - **Hotbar Assignment**: Items can be assigned to the hotbar which can be used the 1 - 8 hotkeys.
-    
-## **Game Structure**
-
-### **Directories and Files**
-- **Scenes**: Contains all game scenes (e.g., main menu, world map, battle zones).
-- **Scripts**: All GDScript files for gameplay mechanics (e.g., attack, health, scene management).
-- **Assets**: Art, sound, and other resources.
-
-### **Scripts**
-1. **Player.gd**:
-   - Handles player movement, attack, and health regeneration.
-2. **Enemy.gd**:
-   - Pathfinding and tracking for enemy attacks, health tracking, and interactions.
-3. **SceneManager.gd**:
-   - Manages transitions between scenes.
-4. **HUD.gd**:
-   - Updates and displays the health bars.
-
 
 ## **Setup and Installation**
 1. Download the files titled ```rpg-learning``` and its companion files from the google drive <a href="https://drive.google.com/drive/folders/1K1-LD7-_vcQuw-fZU0Hv5YO-xlZr1Ui3?usp=share_link" title="this">here</a>.
