@@ -7,7 +7,7 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 
 ## **Features**
 
-### 🎮 **Core Gameplay**
+### **Core Gameplay**
 - **Open World**: Explore a seamless and engaging open-world environment.
 - **Scene Changes**: Smooth transitions between different scenes (e.g., towns, forests, caves).
 - **Combat System**:
