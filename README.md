@@ -39,21 +39,8 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 
 
 ## **Setup and Installation**
-### **Method 1**
-1. Download the files titled ```rpg-learning``` and its companion files from the google drive <a href="https://drive.google.com/drive/folders/1K1-LD7-_vcQuw-fZU0Hv5YO-xlZr1Ui3?usp=share_link" title="this">here</a>
-2. Run the .exe file and enjoy
-
-### **Method 2**
-
-1. **Install Godot Engine**: Make sure you have Godot (v4.x recommended) installed. Download it from [Godot Engine](https://godotengine.org).
-2. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/SRVSRR/Top-Down-2D-RPG.git
-   ```
-3. **Open the Project**:
-   - Launch Godot.
-   - Click on **Import Project**, navigate to the project folder, and select `project.godot`.
-4. **Run the Game**: Press the **Play** button in the Godot editor.
+1. Download the files titled ```rpg-learning``` and its companion files from the google drive <a href="https://drive.google.com/drive/folders/1K1-LD7-_vcQuw-fZU0Hv5YO-xlZr1Ui3?usp=share_link" title="this">here</a>.
+2. Run the .exe file and enjoy.
 
 
 ## **Controls**
@@ -74,6 +61,12 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 - Hotbar assignment system with hotkeys.
 - Pseudo random item spawns.
 - Temporary status effects given to items.
+
+### **01/12/24**
+- Main menu and system settings menu.
+- Key rebinding functionality.
+- Graphics, sound and accessibilty settings.
+- Save states and slot system added.
   
 ## **Future Improvements Roadmap**
 - Add NPC interactions and quests.
@@ -86,5 +79,6 @@ Here are the list of sources and tutorials I used to make this game.
 - [Henry Software - Pixel Food Asset Pack](https://henrysoftware.itch.io/pixel-food)
 - [How to Make an RPG in Godot 4 by DevWorm](https://youtube.com/playlist?list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd&si=-qf3YOUL7aTw7Ok5)
 - [Godot 4 Dynamic Slot-Based Inventory System Series by Oops I Dev'd](https://youtube.com/playlist?list=PL8VGDn5bxwDa8sAB-bz_l6aJbT_SnHrID&si=M8EUSdy8JGm8AIk6)
+- [How To Create Menus In Godot! by CoffeeCrow](https://www.youtube.com/playlist?list=PLhBqFleCVBkXQiE8Nm4Co_1iJJ4L7UIzr)
 
 Feel free to explore, contribute, or adapt the game for your creative ideas. Enjoy playing! 😊 
