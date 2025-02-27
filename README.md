@@ -36,7 +36,7 @@ This is a top-down, open-world RPG developed in the **Godot Engine**, using **GD
 | Item Dragging    | Right Click            |
 | Item Options     | Left Click             |
 
-## **Recent Improvements**
+## **Ancient Improvements**
 ### **22/11/24**
 - Inventory system with pick, use and drop functionality.
 - Hotbar assignment system with hotkeys.
